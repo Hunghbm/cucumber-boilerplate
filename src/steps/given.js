@@ -1,4 +1,4 @@
-import checkContainsAnyText from '../support/check/checkContainsAnyText';
+ import checkContainsAnyText from '../support/check/checkContainsAnyText';
 import checkContainsText from '../support/check/checkContainsText';
 import checkCookieContent from '../support/check/checkCookieContent';
 import checkCookieExists from '../support/check/checkCookieExists';

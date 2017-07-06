@@ -1,0 +1,8 @@
+Feature: Test background of element
+    As a developer
+    I want to Test background of element
+
+Scenario: check css attribute
+        Given I open the url "http://beta.greenglobal.vn/"
+        And   the css attribute "background-color" from element ".btn-work-with-us" is "#02a959"
+        Then  I expect that the css attribute "background-color" from element ".btn-work-with-us" is "#02a959"
